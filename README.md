@@ -15,7 +15,7 @@
 ![Skill](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 <br>
 <br>
-Estudante de Engenharia de Software com foco na área Front-end, apaixonado por tecnologia e inovação. 
+Estudante de Engenharia de Software com foco na área Front-end apaixonado por tecnologia e inovação. Estou sempre em busca de agregar conhecimento nas mais diversas tecnologias para solução de problemas.
 
 ## Email para contato: 
 - felipe.devsoftwareengineer@gmail.com
