@@ -11,7 +11,6 @@
 
 <br>
 <br>
-Estudante de Engenharia de Software com foco na área Front-end apaixonado por tecnologia e inovação. Estou sempre em busca de agregar conhecimento nas mais diversas tecnologias para solução de problemas.
 
 ## Email para contato: 
 - felipe.devsoftwareengineer@gmail.com
